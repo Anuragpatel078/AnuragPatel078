@@ -2,7 +2,7 @@
 # 💫 Hi 👋, I'm Anurag Patel
 **A passionate Mern Developer || DevOps Engineer || DSA**
 
-Email Me 👉 ✉️ **ap42543gmail.com** For Collaboration/Project or Anything Else. 
+Email Me 👉 ✉️ **ap42543@gmail.com** For Collaboration/Project or Anything Else. 
 
 about me:
 I am currently working and learning as to become a
